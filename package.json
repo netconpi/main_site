@@ -1,0 +1,26 @@
+{
+  "name": "ntcad_site",
+  "version": "1.0.0",
+  "description": "Web portfolio",
+  "main": "gulpfile.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Misha Kovalev",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.27.11",
+    "del": "^7.0.0",
+    "gulp": "^4.0.0",
+    "gulp-file-include": "^2.3.0",
+    "gulp-notify": "^4.0.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-replace": "^1.1.4",
+    "gulp-sass": "^5.1.0",
+    "gulp-version-number": "^0.2.4",
+    "gulp-webp-html-nosvg": "^1.1.1",
+    "sass": "^1.58.0"
+  }
+}
